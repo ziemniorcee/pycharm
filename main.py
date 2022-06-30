@@ -17,3 +17,4 @@ if __name__ == '__main__':
 jebac policje
 ezez
 nie bo ciebie
+sdadsad
